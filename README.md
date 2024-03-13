@@ -11,6 +11,6 @@ As a user you can:
 - join a group chat
 - send friend requests ( and see your own requests )
 - post images/videos ( or edit them )
-- comment or appreciate other users posts
+- comment on or appreciate other users' posts
 
 As an admin you have permissions over any account.
