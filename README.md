@@ -2,7 +2,7 @@
 
  Instagram-inspired application, developed using ASP .NET framework, MVC architecture and C# language.
  
- Project developed in a team and documented using Trello platform.
+ Developed as part of a two-person team and documented using Trello platform.
 ## Functionalities
 
 As a user you can:
