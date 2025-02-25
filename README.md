@@ -6,13 +6,16 @@
 ## Functionalities
 
 As a user you can:
-- manage your profile page ( that includes adding/deleting: profile image, description, posts;
-                             changing profile privacy;
-                             editing username )
-- search for other users by username ( the search can be done by the whole name or by parts of the name )
-- join a group chat
-- send friend requests ( and see your own requests )
-- post images/videos ( or edit them )
-- comment on or appreciate other users' posts
+- Manage your profile page
+  - profile privacy
+  - profile image
+  - description
+  - username
+  - posts
+- Post images/videos
+- Search for a user by username
+- Send friend requests ( and see your own requests ) 
+- Join/create a group chat
+- Comment/appreciate other users' posts
 
 As an admin you have permissions over any account.
