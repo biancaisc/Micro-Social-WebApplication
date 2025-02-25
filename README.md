@@ -9,9 +9,9 @@ As a user you can:
 - Manage your profile page
   - profile privacy
   - profile image
-  - description
-  - username
   - posts
+  - username
+  - description
 - Post images/videos
 - Search for a user by username
 - Send friend requests ( and see your own requests ) 
